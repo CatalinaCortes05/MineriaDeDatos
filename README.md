@@ -1,3 +1,3 @@
 # MineriaDeDatos
-Grupo 4: Boston Housing Dataset⏰
+Grupo 4: Boston Housing Dataset
 
